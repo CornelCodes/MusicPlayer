@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormUI", "WinFormUI\WinFormUI.csproj", "{22707050-A492-494E-AF24-97D4B5770410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayerClassLibrary", "MusicPlayerClassLibrary\MusicPlayerClassLibrary.csproj", "{39D93044-6DA9-4A0D-9023-E4114C1A3858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22707050-A492-494E-AF24-97D4B5770410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22707050-A492-494E-AF24-97D4B5770410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22707050-A492-494E-AF24-97D4B5770410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22707050-A492-494E-AF24-97D4B5770410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D93044-6DA9-4A0D-9023-E4114C1A3858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D93044-6DA9-4A0D-9023-E4114C1A3858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D93044-6DA9-4A0D-9023-E4114C1A3858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D93044-6DA9-4A0D-9023-E4114C1A3858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A641534-E33B-42DE-9DFE-F282E4855135}
+	EndGlobalSection
+EndGlobal
